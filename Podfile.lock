@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.5.0)
+  - RAMAnimatedTabBarController (2.0.13)
+  - SwiftyXMLParser (3.0.3)
+  - SwipeCellKit (1.9.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - RAMAnimatedTabBarController (~> 2.0.13)
+  - SwiftyXMLParser (from `https://github.com/yahoojapan/SwiftyXMLParser.git`)
+  - SwipeCellKit
+
+EXTERNAL SOURCES:
+  SwiftyXMLParser:
+    :git: https://github.com/yahoojapan/SwiftyXMLParser.git
+
+CHECKOUT OPTIONS:
+  SwiftyXMLParser:
+    :commit: 717181c312510135be4724a33e37fa9e3af76548
+    :git: https://github.com/yahoojapan/SwiftyXMLParser.git
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  RAMAnimatedTabBarController: 2510f3b66954c3f77ea1042a35d34df8f5f3b604
+  SwiftyXMLParser: acca46f5a8f0728cf0e618736d8a7fc7822abcbe
+  SwipeCellKit: e9ff953c820394a4e641cfb0118b6c959506aec2
+
+PODFILE CHECKSUM: 7f2e38fa18e4d6ab8b296e3757aa3bb455f98254
+
+COCOAPODS: 1.2.1
